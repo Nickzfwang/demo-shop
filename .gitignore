@@ -11,5 +11,5 @@ npm-debug.log
 yarn-error.log
 .php_cs.cache
 .DS_Store
-.package-lock.json
+package-lock.json
 .editorconfig
